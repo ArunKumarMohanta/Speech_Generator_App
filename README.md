@@ -83,7 +83,7 @@ To run the project locally, follow these steps:
 - MP3 files are saved in the `speeches` folder inside the user's home directory (on Android, they are saved in the `Download/speeches` directory).
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
 ---
 Feel free to try the APK or modify the source code for your own use. If you encounter any issues or have suggestions for improvement, please create an issue in the repository!
