@@ -19,6 +19,19 @@ This app is designed to work on multiple platforms and provides a user-friendly 
 - **File Management**: Automatically organizes saved MP3 files in a dedicated folder.
 - **Cross-Platform Notifications**: Displays success and error messages using popups or native notifications.
 
+### Initial Interface
+
+The main interface allows you to put text and convert to audio and also saves the audio.
+
+In Windows
+
+![image](https://github.com/user-attachments/assets/239017b0-0273-4bfd-9ca1-a801751fbfcd)
+
+In Android
+
+![WhatsApp Image 2025-01-04 at 20 17 18_d248ce1c](https://github.com/user-attachments/assets/1b15c4b2-28b1-47b3-b875-641c52838434)
+
+
 ## How to Use
 1. Launch the app.
 2. Enter the text you want to convert to speech in the input box.
@@ -45,8 +58,8 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SpeechGeneratorApp.git
-   cd SpeechGeneratorApp
+   git clone https://github.com/ArunKumarMohanta/Speech_Generator_App
+    cd Speech_Generator_App
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
